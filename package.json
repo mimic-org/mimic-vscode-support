@@ -1,7 +1,9 @@
 {
-  "name": "mimic",
-  "displayName": "Mimic",
-  "description": "Mimic Templating Language",
+  "name": "mimic-language-support",
+  "publisher": "mimic-org",
+  "displayName": "Mimic Language Support",
+  "description": "Mimic language support for Visual Studio Code.",
+  "icon": "./assets/icon-128x128.jpg",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.116.0"
