@@ -9,6 +9,9 @@
   "categories": [
     "Programming Languages"
   ],
+  "repository": {
+    "url": "https://github.com/mimic-org/vscode-mimic-syntax/tree/main"
+  },
   "contributes": {
     "languages": [{
       "id": "mimic",
